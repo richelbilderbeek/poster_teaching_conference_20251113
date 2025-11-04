@@ -2,6 +2,12 @@
 
 Poster for the teaching conference of 2025-11-13
 
+## Size
+
+- A0 = 594 mm x 841 mm = 23.4 inch x 33.1 inch
+
+## Scribbles
+
 - ELIXIR dashbaord: https://training-metrics-dev.elixir-europe.org/
   23481 evaluations are filled in for 5863 days activity, which
   is 23481 / 5863 = 4 evaluations per day
@@ -34,14 +40,14 @@ To evaluate the ELIXIR training evaluation, by:
 
 `[Picture with results here]`
 
-Searching the literature for 'using course satisfaction in evaluations'
+Searching the literature for 'student rating of courses meta analysis'
 (and sentences alike) resulted in many relevant papers.
-The most important paper is a meta-analysis [Uttl et al., 2017]:
-The paper concludes that there are many papers that report a link between
-participant satisfaction and any metric. However, this effect vanishes
+The most important paper is a meta-analysis [Clayson, 2009]
+that concludes that there are many papers that report a link between
+learner ratings and any metric. However, this effect vanishes
 for bigger studies and/or studies with rigorous metrics.
 It concludes that there is no relation between
-training quality and participant satisfaction.
+ratings given by learners and any metric.
 
 This means that the ELIXIR evaluation question
 'What is your overall rating for the course?'
